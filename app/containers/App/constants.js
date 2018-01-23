@@ -1,0 +1,5 @@
+
+
+export const REQUEST_WEATHERS = 'boilerplate/App/REQUEST_WEATHERS';
+export const REQUEST_WEATHERS_SUCCEEDED = 'boilerplate/App/REQUEST_WEATHERS_SUCCEEDED';
+export const REQUEST_WEATHERS_FAILED = 'boilerplate/App/REQUEST_WEATHERS_FAILED';
